@@ -1,0 +1,41 @@
+html{
+    height: 100%;
+}
+body {
+    background: #f8f8f8 !important;
+}
+#mybody{
+    background: #f8f8f8;
+}
+
+.nav{
+    border-radius: 0px !important;
+    padding: 10px 0px 10px 0px !important;
+    background: #396afc !important;
+}
+
+.mb-5{
+
+    margin-bottom: 5px !important;
+}
+.w-big{
+    width: 200px !important;
+}
+.mt-5{
+
+    margin-top: 5px !important;
+}
+.bwhite-lg{
+    background-color: transparent !important;
+}
+.bwhite-sm{
+    background-color: transparent !important;
+    width: 10px !important;
+}
+.comment-box{
+    display: none;
+}
+/* .mymodal{
+    height: 200px !important;
+    width: 400px !important;
+} */
